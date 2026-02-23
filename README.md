@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm German 👋
 
-<!--
-**German-395/German-395** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student at Final International University, North Cyprus.
+Currently building backend systems with Python and FastAPI.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Python, C++
+- **Frameworks:** FastAPI
+- **Tools:** Git, Docker, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Backend Development & DevOps (SFWE477)
+- Analysis Of Algorithms (CMPE252)
+- Wireless Sensor Networks (CMPE433)
+
+## 🔗 Connect With Me
+- 📧 german.rachkov@final.edu.tr
